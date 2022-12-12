@@ -5,7 +5,7 @@ export default function AboutUsPage() {
     <body class="flex justify-center items-center">
       <div class="flex flex-col justify-center items-center h-[100%] w-[32%]">
         <div class="font-inter text-4xl mt-10 w-80">
-          WELCOME TO UNKLAB FORMS
+          WELCOME TO UNKLAB barab kodo kasdhjfglkxncvlioeutksfndcg FORMS
         </div>
         <div class="flex flex-col justify-center items-center bg-blue-700 p-12 mt-8 rounded-lg">
           <div class="h-64 w-auto rounded-lg overflow-y-scroll">
